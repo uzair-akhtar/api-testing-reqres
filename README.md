@@ -63,6 +63,5 @@ newman run reqres-api-tests.postman_collection.json \
 
 ## Author
 
-Uzair Akhtar — Junior SQA Engineer  
-GitHub: github.com/iamlethal27  
+Uzair Akhtar — Junior SQA Engineer   
 Email: m.uzairakhtar03@gmail.com
