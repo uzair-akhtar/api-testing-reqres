@@ -61,6 +61,9 @@ newman run reqres-api-tests.postman_collection.json \
 
 ---
 
+## Test run output
+![Test Results](test-results.png)
+
 ## Author
 
 Uzair Akhtar - Junior SQA Engineer   
