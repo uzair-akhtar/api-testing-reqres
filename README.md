@@ -56,7 +56,7 @@ newman run reqres-api-tests.postman_collection.json \
 ## Test results
 
 - Total requests: 5
-- Total assertions: 9
+- Total assertions: 8
 - Pass rate: 100%
 
 ---
