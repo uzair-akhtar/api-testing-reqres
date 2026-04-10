@@ -62,7 +62,7 @@ newman run reqres-api-tests.postman_collection.json \
 ---
 
 ## Test run output
-![Test Results](test-results.png)
+![Test Results](test-result.png)
 
 ## Author
 
