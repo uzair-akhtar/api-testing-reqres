@@ -1,4 +1,4 @@
-# API Testing Portfolio — ReqRes.in
+# API Testing Portfolio - ReqRes.in
 
 A complete API test suite built in Postman covering real-world 
 testing scenarios including authentication, CRUD operations, 
@@ -29,12 +29,12 @@ test assertions, environment variables, and chained requests.
 
 ## Test categories covered
 
-- Positive testing — valid inputs return correct responses
-- Negative testing — invalid inputs return correct error codes  
-- Response time validation — all requests under 2000ms
-- Schema validation — correct fields present in every response
-- Environment variables — no hardcoded values in collection
-- Chained requests — token from login reused across all requests
+- Positive testing - valid inputs return correct responses
+- Negative testing - invalid inputs return correct error codes  
+- Response time validation - all requests under 2000ms
+- Schema validation - correct fields present in every response
+- Environment variables - no hardcoded values in collection
+- Chained requests - token from login reused across all requests
 
 ---
 
@@ -63,5 +63,5 @@ newman run reqres-api-tests.postman_collection.json \
 
 ## Author
 
-Uzair Akhtar — Junior SQA Engineer   
+Uzair Akhtar - Junior SQA Engineer   
 Email: m.uzairakhtar03@gmail.com
